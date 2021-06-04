@@ -1,0 +1,24 @@
+Readme
+
+
+#BBC Microbit electronic blind reciever micropython
+	blind_reciever.py 
+
+#BBC Microbit electronic blind controler micropython
+	blind_sender.py
+
+#script for raspberry pi to turn on projector
+	remote.py
+
+#script for raspberry pi that will enable mqqt comunication with volume remote
+	volume_control.py
+
+#script for raspberry pi to turn off projector when Kodi close
+	remote_off.py 
+
+# Particle Argon code to send potentiometer values to raspberry pi 
+	vol_controller.c
+
+#mydesktop in .confic/autostart
+
+ 

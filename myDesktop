@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec= sudo python3  /home/pi/Desktop/volume.py
+Type=Application
+
+Exec= sudo python3  /home/pi/Desktop/remote.py
+Type=Application
+
+Exec= sudo python3  /home/pi/Desktop/remote_off.py
+Type=Application
+
